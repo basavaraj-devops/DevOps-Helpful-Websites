@@ -1,5 +1,5 @@
 # DevOps-Helpful-Websites
-A repository contains the websites which help DevOps engineer to learn, upskill their approach towards DevOps lifecycle and its working.
+This repository contains the websites which would help DevOps engineer to learn, upskill their approach towards DevOps lifecycle and its working. These websites will also helps in interview preparation.
 
 
 https://interview.devopscommunity.in/
