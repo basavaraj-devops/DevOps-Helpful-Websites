@@ -6,6 +6,9 @@ This repository contains the websites which would help DevOps engineer to learn,
 
 https://interview.devopscommunity.in/
 
+
 # AWS Lambda
 
 https://serverlessland.com/lambda
+
+https://serverlessland.com/learn?services=lambda&type=Workshops
